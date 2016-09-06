@@ -21,6 +21,7 @@ public class TRa {
         System.out.println("Hola Profe :D");
         Scanner va=new Scanner (System.in);
         System.out.println("ingrese valor");
+        int vL=va.nextInt();
     }
     
 }
