@@ -20,7 +20,7 @@ public class TRa {
         // TODO code application logic here
         System.out.println("Hola Profe :D");
         Scanner va=new Scanner (System.in);
-        System.out.println("");
+        System.out.println("ingrese valor");
     }
     
 }
