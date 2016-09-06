@@ -23,6 +23,7 @@ public class TRa {
         System.out.println("ingrese valor");
         int vL=va.nextInt();
         System.out.println("ingrese segundo valor");
+        int v=va.nextInt();
     }
     
 }
