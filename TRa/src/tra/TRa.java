@@ -22,6 +22,7 @@ public class TRa {
         Scanner va=new Scanner (System.in);
         System.out.println("ingrese valor");
         int vL=va.nextInt();
+        System.out.println("ingrese segundo valor");
     }
     
 }
