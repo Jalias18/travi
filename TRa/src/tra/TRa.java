@@ -5,6 +5,8 @@
  */
 package tra;
 
+import java.util.Scanner;
+
 /**
  *
  * @author elsae
@@ -17,6 +19,8 @@ public class TRa {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Profe :D");
+        Scanner va=new Scanner (System.in);
+        System.out.println("");
     }
     
 }
