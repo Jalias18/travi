@@ -24,6 +24,7 @@ public class TRa {
         int vL=va.nextInt();
         System.out.println("ingrese segundo valor");
         int v=va.nextInt();
+        int suma=v+vL;
     }
     
 }
